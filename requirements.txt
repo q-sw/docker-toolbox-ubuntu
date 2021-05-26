@@ -1,0 +1,10 @@
+ansible==2.10.1
+openshift==0.11.2
+python-cinderclient
+python-glanceclient
+python-heatclient
+python-keystoneclient
+python-neutronclient
+python-novaclient
+python-openstackclient
+python-swiftclient
