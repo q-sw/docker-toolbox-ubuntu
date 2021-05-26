@@ -14,5 +14,5 @@
 make build name="mytoolbox" version="2.0"
 ```
 # Construire le container:
-`docker run --name my_toolbox  -it toolbox:2.0 `
+`docker run --name my_toolbox  -it mytoolbox:2.0 `
 
